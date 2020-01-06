@@ -1,0 +1,10 @@
+/target/
+*.class
+*.log
+/logs/*
+/target/*
+.classpath
+.settings*
+.project
+/.idea/*
+WebRoot/WEB-INF/classes
