@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/cn/trc/oa/controller=UTF-8
+encoding//src/cn/trc/oa/controller/WorkFlowController.java=UTF-8
+encoding//src/cn/trc/oa/exception=UTF-8
+encoding//src/cn/trc/oa/mapper/SysPermissionMapperCustom.java=UTF-8
+encoding//src/cn/trc/oa/pojo/ActiveUser.java=UTF-8
+encoding//src/cn/trc/oa/service/SysService.java=UTF-8
+encoding//src/cn/trc/oa/service/impl/SysServiceImpl.java=UTF-8
+encoding//src/cn/trc/oa/shrio/CustomRealm.java=UTF-8
+encoding//src/cn/trc/oa/utils/MD5.java=UTF-8
